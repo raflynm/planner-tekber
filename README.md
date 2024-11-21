@@ -1,6 +1,7 @@
 # plannertekber
 
 A new Flutter project.
+Run "flutter pub get" in terminal before running the actual file
 
 ## Getting Started
 
